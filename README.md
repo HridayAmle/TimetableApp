@@ -39,6 +39,7 @@ You need to have the Java Development Kit (JDK) installed on your system. Versio
 
 For the application to work correctly, you must have the following file and folder structure in your project's root directory:
 
+```
 Directory structure:
 └── TimetableApp/
     ├── Docs/
@@ -93,7 +94,7 @@ Directory structure:
     ├── theorySubjects.csv
     ├── TimetableApp.class
     └── TimetableApp.java.java
-
+```
 
 ### Setup
 
