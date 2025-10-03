@@ -1,0 +1,92 @@
+Program,Semester,Subject
+ASH First Year,Semester 1 (Group A),Computer Science
+ASH First Year,Semester 1 (Group A),Engineering Mechanics
+ASH First Year,Semester 1 (Group A),Engineering Mathematics-I
+ASH First Year,Semester 1 (Group A),Engineering Physics
+ASH First Year,Semester 2 (Group A),Basic Electrical Engineering
+ASH First Year,Semester 2 (Group A),Engineering Chemistry
+ASH First Year,Semester 2 (Group A),Engineering Graphics
+ASH First Year,Semester 2 (Group A),Engineering Mathematics-II
+ASH First Year,Semester 1 (Group B),Basic Electrical Engineering
+ASH First Year,Semester 1 (Group B),Engineering Chemistry
+ASH First Year,Semester 1 (Group B),Engineering Graphics
+ASH First Year,Semester 1 (Group B),Engineering Mathematics-II
+ASH First Year,Semester 2 (Group B),Computer Science
+ASH First Year,Semester 2 (Group B),Engineering Mechanics
+ASH First Year,Semester 2 (Group B),Engineering Mathematics-I
+ASH First Year,Semester 2 (Group B),Engineering Physics
+CSE,Semester 3,Analog & Digital Electronics
+CSE,Semester 3,Discrete Structure & Graph Theory
+CSE,Semester 3,Data Structures
+CSE,Semester 3,Engineering Mathematics-III
+CSE,Semester 3,Object Oriented Programming
+CSE,Semester 4,Assembly Language Programming
+CSE,Semester 4,Operating System
+CSE,Semester 4,Theory of Computation
+CSE,Semester 4,Artificial Intelligence
+CSE,Semester 4,Data Communication & Networking
+CSE,Semester 5,Cognitive Technologies
+CSE,Semester 5,Compiler Design
+CSE,Semester 5,Computer Architecture & Organization
+CSE,Semester 5,Data Science & Statistics
+CSE,Semester 5,Database Management System
+IT,Semester 3,Analog & Digital Electronics
+IT,Semester 3,Discrete Structure & Graph Theory
+IT,Semester 3,Assembly Language Programming
+IT,Semester 3,Engineering Mathematics-III
+IT,Semester 3,Object Oriented Programming
+IT,Semester 4,Computer Architecture & Organization
+IT,Semester 4,Data Communication & Networking
+IT,Semester 4,Data Structures
+IT,Semester 4,Operating System
+IT,Semester 4,Social Sciences & Engineering Economics
+IT,Semester 5,Compiler Design
+IT,Semester 5,Artificial Intelligence
+IT,Semester 5,Database Management System
+IT,Semester 5,Cyber Law & Ethics
+IT,Semester 5,Internet of Things
+ENTC,Semester 3,Electronic Devices & Circuits
+ENTC,Semester 3,Electromagnetic Waves
+ENTC,Semester 3,Engineering Mathematics-III
+ENTC,Semester 3,Object Oriented Programming
+ENTC,Semester 3,Digital System Design
+ENTC,Semester 4,Network Theory
+ENTC,Semester 4,Signals & Systems
+ENTC,Semester 4,Values & Ethics
+ENTC,Semester 4,Analog Circuits
+ENTC,Semester 4,Analog & Digital Communication
+ENTC,Semester 5,Digital Signal Processing
+ENTC,Semester 5,Fiber Optics Communication
+ENTC,Semester 5,Microcontroller
+ENTC,Semester 5,Power Electronics
+ENTC,Semester 5,Speech & Audio Processing
+ELPO,Semester 3,Electrical Circuit Analysis
+ELPO,Semester 3,Electronic Devices & Circuits
+ELPO,Semester 3,Electrical Machine-I
+ELPO,Semester 3,Energy Resources & Operation
+ELPO,Semester 3,Engineering Mathematics-III
+ELPO,Semester 4,Control System
+ELPO,Semester 4,Numerical Methods & Optimization Techniques
+ELPO,Semester 4,Analog & Digital Circuits
+ELPO,Semester 4,Electromagnetic Fields
+ELPO,Semester 4,Electrical Measurements & Instrumentation
+ELPO,Semester 5,Electrical Machines-II
+ELPO,Semester 5,Power Systems-I
+ELPO,Semester 5,Microprocessors & Microcontrollers
+ELPO,Semester 5,Signals & Systems
+ELPO,Semester 5,Data Structure & Analysis
+MECH,Semester 3,Engineering Thermodynamics
+MECH,Semester 3,Fluid Mechanics
+MECH,Semester 3,Engineering Mathematics-III
+MECH,Semester 3,Mechanics of Materials
+MECH,Semester 3,Manufacturing Processes
+MECH,Semester 4,Basic Electrical Drives & Control
+MECH,Semester 4,Energy Conversion-I
+MECH,Semester 4,Hydraulic & Pneumatic Systems
+MECH,Semester 4,Material Science
+MECH,Semester 4,Manufacturing Technology
+MECH,Semester 5,Heat Transfer
+MECH,Semester 5,Kinematics of Machines
+MECH,Semester 5,Metrology & Quality Control
+MECH,Semester 5,Measurement Systems
+MECH,Semester 5,Production Management

@@ -1,0 +1,77 @@
+Program,Semester,Lab Subject
+ASH First Year,Semester 1 (Group A),Computer Science Lab
+ASH First Year,Semester 1 (Group A),Engineering Mechanics Lab
+ASH First Year,Semester 1 (Group A),Workshop
+ASH First Year,Semester 1 (Group A),Engineering Physics Lab
+ASH First Year,Semester 2 (Group A),Basic Electrical Engineering Lab
+ASH First Year,Semester 2 (Group A),Engineering Chemistry Lab
+ASH First Year,Semester 2 (Group A),Engineering Graphics Lab
+ASH First Year,Semester 2 (Group A),Communication Skill Lab
+ASH First Year,Semester 1 (Group B),Basic Electrical Engineering
+ASH First Year,Semester 1 (Group B),Engineering Chemistry
+ASH First Year,Semester 1 (Group B),Engineering Graphics
+ASH First Year,Semester 1 (Group B),Communication Skill
+ASH First Year,Semester 2 (Group B),Computer Science
+ASH First Year,Semester 2 (Group B),Engineering Mechanics
+ASH First Year,Semester 2 (Group B),Workshop
+ASH First Year,Semester 2 (Group B),Engineering Physics
+CSE,Semester 3,Analog & Digital Electronics
+CSE,Semester 3,Computer Skill
+CSE,Semester 3,Data Structures
+CSE,Semester 3,Object Oriented Programming
+CSE,Semester 4,Assembly Language Programming
+CSE,Semester 4,Operating System
+CSE,Semester 4,Artificial Intelligence
+CSE,Semester 4,Data Communication & Networking
+CSE,Semester 5,Cognitive Technologies
+CSE,Semester 5,Compiler Design
+CSE,Semester 5,Data Science & Statistics
+CSE,Semester 5,Database Management System
+IT,Semester 3,Analog & Digital Electronics
+IT,Semester 3,Computer Skill
+IT,Semester 3,Assembly Language Programming
+IT,Semester 3,Object Oriented Programming
+IT,Semester 4,Computer Architecture & Organization
+IT,Semester 4,Data Communication & Networking
+IT,Semester 4,Data Structures
+IT,Semester 4,Operating System
+IT,Semester 5,Artificial Intelligence
+IT,Semester 5,Database Management System
+IT,Semester 5,Cyber Law & Ethics
+IT,Semester 5,Internet of Things
+ENTC,Semester 3,Electronic Devices & Circuits
+ENTC,Semester 3,Electromagnetic Waves
+ENTC,Semester 3,Object Oriented Programming
+ENTC,Semester 3,Digital System Design
+ENTC,Semester 4,Network Theory
+ENTC,Semester 4,Signals & Systems
+ENTC,Semester 4,Analog Circuits
+ENTC,Semester 4,Analog & Digital Communication
+ENTC,Semester 5,Digital Signal Processing
+ENTC,Semester 5,Fiber Optics Communication
+ENTC,Semester 5,Microcontroller
+ENTC,Semester 5,Speech & Audio Processing
+ELPO,Semester 3,Electrical Circuit Analysis
+ELPO,Semester 3,Electronic Devices & Circuits
+ELPO,Semester 3,Electrical Machine-I
+ELPO,Semester 3,Energy Resources & Operation
+ELPO,Semester 4,Control System
+ELPO,Semester 4,Analog & Digital Circuits
+ELPO,Semester 4,Electromagnetic Fields
+ELPO,Semester 4,Electrical Measurements & Instrumentation
+ELPO,Semester 5,Electrical Machines-II
+ELPO,Semester 5,Microprocessors & Microcontrollers
+ELPO,Semester 5,Signals & Systems
+ELPO,Semester 5,Data Structure & Analysis
+MECH,Semester 3,Engineering Thermodynamics
+MECH,Semester 3,Fluid Mechanics
+MECH,Semester 3,Mechanics of Materials
+MECH,Semester 3,Manufacturing Processes
+MECH,Semester 4,Basic Electrical Drives & Control
+MECH,Semester 4,Energy Conversion-I
+MECH,Semester 4,Hydraulic & Pneumatic Systems
+MECH,Semester 4,Manufacturing Technology
+MECH,Semester 5,Heat Transfer
+MECH,Semester 5,Kinematics of Machines
+MECH,Semester 5,Measurement Systems
+MECH,Semester 5,Production Management
